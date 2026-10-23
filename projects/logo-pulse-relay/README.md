@@ -36,7 +36,9 @@ The exact behavior of a pulse relay depends on the LOGO! function block and its 
 4. `Q1` follows the relay state.
 5. Simultaneous button presses and button-release behavior do not create unexpected switching.
 
-## Verification checklist
+## Verification
+
+Use the [test plan](TEST-PLAN.md) to record the software version, expected behavior, actual results, and evidence. Do not label the exercise as tested until it has been simulated and the results have been recorded.
 
 - [ ] Draw the circuit in LAD.
 - [ ] Recreate the equivalent logic in FBD.
@@ -45,9 +47,9 @@ The exact behavior of a pulse relay depends on the LOGO! function block and its 
 - [ ] Save screenshots of the final LAD and FBD diagrams.
 - [ ] Add the tested project file or screenshots to this folder.
 
-## What will be added next
+## Next steps
 
-Once the circuit is built and tested, this page can include the actual block configuration, screenshots, test results, and the LOGO! project file if it can be shared safely.
+Once the circuit is built and tested, add the actual block configuration, screenshots, test results, and the LOGO! project file if it can be shared safely.
 
 ---
 
