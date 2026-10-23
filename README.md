@@ -1,49 +1,48 @@
-# Electrical Engineering & Industrial Automation
+# Mohsen | Electrical Engineering & Industrial Automation
 
-Welcome to my GitHub repository.
+> Technical student focused on industrial electricity, PLC control, and practical automation projects.
 
-I'm a technical high-school student focused on **industrial electricity, PLC-based control, and industrial automation**. I use this space to document practical learning, control-system exercises, and projects related to electrical engineering.
+I'm building a technical portfolio around **industrial electrical systems, PLC programming, and control logic**. This repository is where I document exercises, project designs, and lessons learned as I develop my skills.
 
-## Areas of Interest
+## Focus Areas
 
-- PLC programming and industrial control
-- Siemens SIMATIC S7-300 / S7-400 / S7-1200
-- TIA Portal and STEP 7
-- WinCC and SCADA fundamentals
-- Electrical control circuits, contactors, timers, and motor-control logic
-- AutoCAD and AutoCAD Electrical
-- Troubleshooting and improving industrial control systems
+- **PLC & automation:** Siemens SIMATIC S7-300, S7-400, and S7-1200; TIA Portal; STEP 7
+- **Industrial control:** relay logic, push-buttons, contactors, timers, motor-control circuits, and control-panel wiring
+- **HMI / monitoring:** WinCC and introductory SCADA concepts
+- **Electrical drafting:** AutoCAD and AutoCAD Electrical
+- **Practical work:** reading control circuits, troubleshooting, and documenting modifications
 
-## Skills & Tools
+## Portfolio
 
-| Area | Tools / Topics |
-|---|---|
-| PLCs | Siemens SIMATIC S7-300, S7-400, S7-1200 |
-| PLC software | TIA Portal, STEP 7 |
-| HMI / Supervisory systems | WinCC, SCADA fundamentals |
-| Electrical design | AutoCAD, AutoCAD Electrical |
-| Industrial electricity | Control circuits, motor control, panel wiring |
+| Project | What it covers | Status |
+|---|---|---|
+| [LOGO! Pulse-Relay Exercise](projects/logo-pulse-relay/) | Four push-buttons, OR logic, pulse relay, and output Q1 in LOGO! Soft Comfort | Documentation in progress |
+| More PLC exercises | LAD/FBD logic, sequencing, and control-circuit examples | Planned |
 
-## Projects
+I will add diagrams, screenshots, and tested project files when they are available. I distinguish between planned exercises and completed, verified work.
 
-I’m building this repository into a practical portfolio. As projects are added, each one will include its purpose, control logic, tools used, and relevant diagrams or screenshots where possible.
+## Tools & Technologies
 
-Planned project topics:
-- PLC logic exercises in LAD and FBD
-- Start/stop and pulse-relay control examples
-- Industrial motor-control circuits
-- Electrical control and troubleshooting notes
+`Siemens SIMATIC` · `TIA Portal` · `STEP 7` · `LOGO! Soft Comfort` · `WinCC` · `SCADA fundamentals` · `AutoCAD` · `AutoCAD Electrical`
 
-*Project descriptions will be updated as each item is completed and documented.*
+## How I Document Projects
 
-## About Me
+Each project should explain:
+1. The task and expected behavior
+2. The inputs, outputs, and assumptions
+3. The control logic and a readable diagram
+4. How to test the result and what remains to be improved
 
-I’m continuing to develop my technical and programming skills through school, hands-on practice, and independent projects. I’m especially interested in industrial automation and electrical engineering applications.
+## About
 
-## Connect
+I'm a technical high-school student specializing in industrial electricity. I enjoy learning by building and analyzing control systems, and I'm continuing to improve my programming, documentation, and technical-language skills.
+
+My long-term interest is in **industrial automation and electrical engineering**, especially practical PLC-based control.
+
+## Contact
 
 - GitHub: [@Mohsen831-cyrpto](https://github.com/Mohsen831-cyrpto)
 
 ---
 
-*This portfolio is a work in progress. I aim to keep the documentation clear, accurate, and based on work I have actually completed.*
+*This portfolio is a work in progress. I aim to keep every claim accurate and every project clearly documented.*
